@@ -16,7 +16,7 @@
     "url": "https://github.com/Kragada/WebPackageTest/issues"
   },
 "publishConfig": {
-   "@YOUR-USERNAME:registry": "https://npm.pkg.github.com/Kragada/WebPackageTest"
+   "Kragada:registry": "https://npm.pkg.github.com/Kragada/WebPackageTest"
  },
   "homepage": "https://github.com/Kragada/WebPackageTest#readme"
 }
